@@ -1,0 +1,23 @@
+.header {
+    border-bottom: 1px solid var(--dark-green);
+    padding: 1.5rem;
+    font-size: 24px;
+    color: var(--dark-green);
+    font-weight: 600;
+}
+
+span {
+    margin-left: 15%;
+}
+
+img {
+    height: 24px;
+}
+
+@media (max-width: 420px) {
+    span {
+        margin-left: 25%;
+    }
+}
+
+

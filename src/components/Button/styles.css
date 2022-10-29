@@ -1,0 +1,26 @@
+button {
+    background-color: var(--dark-green);
+    padding: 1rem 3rem;
+    border: 0;
+    border-radius: 1rem;
+    font-size: 20px;
+    color: #FFFF;
+    box-shadow: 0 3px 6px hsla(0, 0%, 0%, 0.15), 0 2px 4px hsla(0, 0%, 0%, 0.12);
+   
+}
+
+button:hover {
+    background-color: var(--light-green);
+    color: var(--dark-green);
+}
+
+button:disabled {
+    background-color: var(--light-green);
+    color: var(--dark-green);
+}
+
+@media (max-width: 420px) {
+    button {
+        font-size: 16px;
+    }
+}
