@@ -4,24 +4,15 @@
 
 # Running locally
 
-### `npm install`
-### `npm start`
+```
+npm install
+npm start
+```
 
 # Testing
 
-### `npm test`
-
-# Deployment
-
-[online](https://blinqfechallenge-nguyenpham.netlify.app/)
-
-# Running locally
-
-**npm install**
-**npm start**
-
-# Testing
-
-**npm test**
+```
+npm test
+```
 
 
