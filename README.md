@@ -15,4 +15,9 @@ npm start
 npm test
 ```
 
+# Building
+```
+npm run build
+```
+
 
